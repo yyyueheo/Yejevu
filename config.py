@@ -1,0 +1,2 @@
+# ✅ Telegram Bot Token only
+TELEGRAM_BOT_TOKEN = '8297731985:AAEBH-9_0GaP10sUV-D7i40nsvevhoZVZGw'
